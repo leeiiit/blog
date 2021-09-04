@@ -1,24 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <title>leeiiit</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
 </head>
 <body>
   <div id="app"></div>
-  <script>
+   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
-	  coverpage: true,
-	  loadNavbar: true
+	  name: '📙 leeiiit的学习笔记',	 
+      coverpage: true, // 设置封面
+      onlyCover: true, // 只显示封面
+      loadSidebar: true, // 设置侧边栏
+      subMaxLevel: 2, //侧边栏显示当前页面的目录(标题)
+      //loadNavbar: true, // 设置导航栏
+      // 完整配置参数
+      search: {
+        placeholder: '搜索', // 搜索提示框文字， 支持本地化，例子在下面
+        noData: '找不到结果!',
+        depth: 3,                       // 搜索标题的最大程级, 1 - 6
+      },
+	  footer: {
+        copy: '<span id="sitetime" style="font-size:14px"></span><br/><span style="font-size:14px">  Copyright <a href="https://t.1yb.co/sBOZ" target="_blank" style="font-size:14px"> 🏷️ <strong>leeiiit</strong> </a>  &nbsp;  &copy; 2021.09.01 - 至今 &nbsp;</span>',
+        auth: '<br/><span style="font-size:14px"> 种一颗树最好的时间是十年前，其次是现在🌲️</span>',
+        pre: '<hr/>',
+        style: 'text-align: left;',
+      }//添加页脚
     }
   </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  
+<!-- 引入搜索模块 -->
+<script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/plugins/search.min.js"></script>
+
+<!-- 添加一键拷贝代码-->
+<script src="//unpkg.com/docsify-copy-code"></script></script>
+
+<!--添加不蒜子访问统计-->
+<script async src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/busuanzi.pure.mini.js"></script>
+
+<!-- mouse click -->
+<script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/click_heart.js"></script>
+
+<!-- 添加页脚 -->
+<script src="https://cdn.jsdelivr.net/gh/wugenqiang/NoteBook@master/plugin/docsify-footer-enh.min.js"></script>
+
+<!-- 字数统计功能 -->
+<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+
+<!-- 图片缩小方法-->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+<!-- 回到顶部功能 -->
+<script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/jquery.goup.js"></script>
+<script type="text/javascript">
+
 </body>
 </html>

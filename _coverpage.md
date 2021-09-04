@@ -1,10 +1,11 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+<img width="180px" style="border-radius: 50%" bor src="/icon/manworks.png">
 
-# Node.js技术栈指南
+#   📙leeiiit的学习笔记
 
-- 本文档是作者从事 ```Node.js Developer``` 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
+- 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
 
-[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
+:rocket: 本站访问数：<span id="busuanzi_value_site_pv"></span>次
 
-[GitHub](<https://github.com/leeiiit/leeiiit>)
+[Github](<https://github.com/leeiiit/leeiiit>)
 [开始阅读](README.md)
+
