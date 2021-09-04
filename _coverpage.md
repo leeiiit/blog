@@ -6,6 +6,6 @@
 
 :rocket: 本站访问数：<span id="busuanzi_value_site_pv"></span>次
 
-[Github](<https://github.com/leeiiit/leeiiit>)
+[Github](<https://github.com/leeiiit/blog>)
 [开始阅读](README.md)
 
