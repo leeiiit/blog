@@ -1,4 +1,4 @@
-<img width="128px" style="border-radius: 50%" bor src="./icon/bitbug.ico">
+<img width="180px" style="border-radius: 50%" bor src="./icon/manworks.png">
 
 #   📙leeiiit的学习笔记
 
