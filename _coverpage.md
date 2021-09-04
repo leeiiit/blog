@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="/icon/manworks.png">
+<img width="180px" style="border-radius: 50%" bor src="https://0820-bucket.oss-cn-beijing.aliyuncs.com/icon/manworks.png">
 
 #   📙leeiiit的学习笔记
 
